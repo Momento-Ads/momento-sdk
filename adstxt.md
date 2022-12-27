@@ -27,7 +27,7 @@ ads.txt, app-ads.txt 파일을 활용하므로써 매체에 광고를 게시할 
   C. 개발자 웹사이트/app-ads.txt 에 접속했을 때 텍스트 파일 안의 내용이 정확하게 보이면 올바르게 게시된 상태입니다.
 
 ## 주의사항
-ads.txt, app.ads.txt 내부의 Line을 정리하실 경우, 비슷해 보이더라도 절때 내용을 바꾸지 말고, Momento에서 제공한 그대로 적용해주세요.
+ads.txt, app.ads.txt 내부의 Line을 정리하실 경우, 비슷해 보이더라도 절대로 내용을 바꾸지 말고, Momento에서 제공한 그대로 적용해주세요.
 
 
 ## ads.txt 및 app-ads.txt 예시
