@@ -20,7 +20,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.momento-ads</groupId>
     <artifactId>momento-android-sdk</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>aar</packaging>
     <dependencies>
         <dependency>
