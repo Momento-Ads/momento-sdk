@@ -26,17 +26,8 @@
 ## SDK 가이드
 
 ### Momento SDK 추가하기
-> 
-- SDK Import(AAR파일시)
-    - `minSdkVersion` 14
-    - `targetSdkVersion` 30
-    - libs 폴더에 AAR 파일 추가
-    - Gradle 설정
-    
-      ```
-      implementation (name: 'momento-0.1.42', ext: 'aar')
-      ```
-    
+>
+
 - SDK Import(외부 배포시)
     - build.gradle(project) 
     - <b>gradle 7이상인 경우 setting.gradle에 탑재</b>
