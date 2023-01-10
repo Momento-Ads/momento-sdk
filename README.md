@@ -47,7 +47,7 @@
 
 		```js
       dependencies {      
-		implementation 'com.github.momento-ads:momento-android-sdk:1.0.3'
+		implementation 'com.github.momento-ads:momento-android-sdk:1.0.4'
       }
 		```
     
