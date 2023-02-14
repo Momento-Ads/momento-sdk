@@ -732,6 +732,17 @@ class MainActivity : AppCompatActivity() {
 | INTERNAL_CODE_MRAID_LOAD_ERROR | 90020 | MRAID 광고 송출을 실패한 경우 |
 | INTERNAL_CODE_REWARD_FAILED | 90021 | Callback Url을 통한 리워드 제공에 실패한 경우 |
 
+## FAQ
+### INTERNAL_CODE_NO_GOOGLE_AD_ID 가 발생합니다.
+구글광고아이디 (ADID) 를 수집하기 위해 별도로 아래의 퍼미션을 추가해주셔야 합니다.
+```XML
+<manifest>
+...
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> 
+...
+</manifest>
+```
+
 ## Ads.txt, App-ads.txt 적용하기
 Ads.txt, App-ads.txt를 적용해주시면 광고 수익 향상에 도움이 될 수 있습니다. <br></br>
 Ads.txt, App-ads.txt에 대해서, 그리고 적용하는 방법은 [Ads.txt, App-ads.txt 가이드](adstxt.md)를 통해 확인할 수 있습니다. <br></br>
